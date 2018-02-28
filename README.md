@@ -1,0 +1,2 @@
+# rust_exercise
+Rustのチュートリアル
